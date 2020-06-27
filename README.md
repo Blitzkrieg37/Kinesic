@@ -12,6 +12,9 @@ Dependencies<br/>
 Python 3.5.0+<br/>
 OpenCV 4.1.0+<br/>
 Tensorflow 2.0<br/>
+SpeechRecognition 3.8<br/>
+PyAutoGUI<br/>
+PyAudio<br/>
 <br/>
 References<br/>
 - [Real-time Hand Gesture Detection and Classification Using Convolutional Neural Networks--Okan Köpüklü, Ahmet Gunduz, Neslihan Kose, Gerhard Rigoll-arXiv:1901.10323v3](https://arxiv.org/abs/1901.10323)
